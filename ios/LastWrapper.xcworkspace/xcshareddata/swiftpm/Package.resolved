@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "lastios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PoojaBabusing/lastios.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "93bbc7ad23affb98eb538bba305e068214cfd38c"
+      }
+    }
+  ],
+  "version" : 2
+}
